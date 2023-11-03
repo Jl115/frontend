@@ -66,4 +66,11 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.container-form,
+article {
+  max-width: 768px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+ </style>
